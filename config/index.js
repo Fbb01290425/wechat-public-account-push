@@ -18,7 +18,7 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "宝宝",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "otd4a65a9DUzSjopmS5Spd4tPQzY",
    *    // 你想对他发送的模板消息的模板ID
@@ -45,10 +45,10 @@ export const config = {
     }, 
     {
       name: "宝宝", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      id: "otd4a65a9DUzSjopmS5Spd4tPQz",
+      useTemplateId: "YVlhFI0uY2J3zJCYr9loewZLDMJDcxlf22_FSYl2o88",
+      province: "辽宁",
+      city: "朝阳",
       openUrl: "https://wangxinleo.cn"
     }, 
   ],
@@ -112,7 +112,7 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-04-25"},
-    // 结婚纪念日
+    // 恋爱纪念日
     // ... 
   ],
 
